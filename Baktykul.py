@@ -3,7 +3,7 @@ import random
 def run_quiz():
     score = 0
 
-    questions = [
+    questions = [ 
         {"question": "Capital of Kyrgyzstan?",
          "options": ["Osh", "Bishkek", "Naryn"],
          "answer": "b"},
